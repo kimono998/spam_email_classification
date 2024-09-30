@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The goal of this project is to build a classifier that can effectively distinguish between spam and non-spam emails while minimizing the number of false positives.
+The goal of this project is to build a classifier that can effectively distinguish between spam and non-spam emails while minimizing the number of false positives. The project was done as a part of my ML-IDA course. 
 
 ## Preprocessing
 
